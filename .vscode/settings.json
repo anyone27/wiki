@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/josh/Documents/Programming/CS50/CS50W/pset3/wiki/venv/bin/python3.9",
+    "python.linting.banditEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
